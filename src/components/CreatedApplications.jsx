@@ -2,6 +2,8 @@ import React, { useEffect } from "react";
 import { getApplications } from "../api/apiApplication";
 import { BarLoader } from "react-spinners";
 import ApplicationCard from "./ApplicationCard";
+import { useUser } from "@clerk/clerk-react";
+import useFetch from "../hooks/useFetch";
 
 const CreatedApplications = () => {
   const { user } = useUser();
@@ -15,7 +17,6 @@ const CreatedApplications = () => {
 
   useEffect(() => {
     fnApplications();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   if (loadingApplications) {
