@@ -10,7 +10,7 @@ const AppLayout = () => {
       <main className="flex-grow container mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <Outlet />
       </main>
-      <footer className="py-6 text-center bg-[#262626] ">
+      <footer className="py-6 text-center bg-[#131313]">
         <p className="text-sm">Made with ❤️ by Aditya</p>
       </footer>
     </div>
