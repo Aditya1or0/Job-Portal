@@ -1,6 +1,3 @@
-Here's the improved and fixed version of your `README.md`:
-
-```markdown
 # Job Portal
 
 ## Overview
@@ -134,13 +131,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to open an issue on GitHub or contact me directly at [your-email@example.com].
-```
+If you have any questions or need further assistance, feel free to open an issue on GitHub or contact me directly at [adityapandit264@gmail.com].
 
-### Key Improvements:
-- Fixed minor formatting issues.
-- Improved clarity in the "Contributing" and "Usage" sections.
-- Enhanced consistency in descriptions.
-- Added clearer structure for the repository setup, environment variable setup, and installation instructions.
-
-Feel free to adjust any placeholders or details as needed!
