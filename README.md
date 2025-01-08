@@ -117,9 +117,6 @@ We welcome contributions! If you'd like to improve this project, feel free to fo
    ```
 5. Submit a pull request.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
